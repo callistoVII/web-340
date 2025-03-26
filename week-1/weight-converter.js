@@ -18,7 +18,8 @@ function convertLbsToKg(weightInLbs) {
   } else {
     let weightInKg = weightInLbs[0] * 0.45359237;
     const roundedWeightInKg = weightInKg.toFixed(2);
-    console.log(`${weightInLbs[0]} pounds is ${roundedWeightInKg} kilograms.`);
+    const roundedWeightString = roundedWeightInKg.toString();
+    console.log(roundedWeightString);
   }
 }
 
