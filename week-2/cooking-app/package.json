@@ -1,0 +1,12 @@
+{
+  "name": "recipes",
+  "version": "1.0.0",
+  "description": "Create Recipe, set time, and quit function",
+  "main": "recipes",
+  "scripts": {
+    "start": "start",
+    "test": "test"
+  },
+  "author": "Nicole Nielsen",
+  "license": "ISC"
+}
