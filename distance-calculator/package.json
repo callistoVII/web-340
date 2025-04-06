@@ -1,0 +1,14 @@
+{
+  "name": "distance-calculator",
+  "version": "1.0.0",
+  "description": "A module to calculate astronomical distance between planetary bodies in AU",
+  "main": "src/distance-calculator.spec.js",
+  "scripts": {
+    "test": "node test/distance-calculator.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
+
