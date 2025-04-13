@@ -1,0 +1,13 @@
+{
+  "name": "taco-stand-app",
+  "version": "1.0.0",
+  "description": "a simple taco stand exercise file",
+  "main": "../src/index.js",
+  "scripts": {
+    "test": "node test/taco-stand-spec.js",
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "dependencies": {},
+  "license": "ISC"
+}
